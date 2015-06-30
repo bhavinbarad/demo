@@ -1,3 +1,3 @@
 # demo
 hi,
-this is the demo file
+this is the git demo file
